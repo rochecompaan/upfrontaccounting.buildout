@@ -6,4 +6,5 @@ include
 lib
 parts
 src
+tags
 var
